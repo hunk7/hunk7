@@ -1,13 +1,5 @@
 <div align="center">
 
-<!-- 🌊 COMPACT GRADIENT HEADER (TIGHT BOUNDS) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=155&section=header&text=Ganesh%20Bhadra&fontSize=42&fontAlignY=34&desc=Azure%20and%20.NET%20Full-Stack%20Engineer%20%7C%20Cloud%20Arch%20%20and%20Distributed%20Systems&descFontSize=16&descAlignY=55&fontColor=ffffff" width="100%" alt="Header" />
-
-<!-- ⚡ ZERO-PADDING TYPING SUBTITLE -->
-<a href="https://github.com/hunk7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1400&color=38BDF8&center=true&vCenter=true&width=750&height=30&lines=%E2%9A%A1+Building+High-Performance+Microservices+with+C%23+and+ASP.NET+Core;%E2%9A%9B%EF%B8%8F+Crafting+Dynamic+Responsive+SPAs+in+React%2C+TypeScript+and+Vite;%E2%98%81%EF%B8%8F+Architecting+Scalable+Cloud-Native+Solutions+on+Microsoft+Azure;%F0%9F%93%AC+Event-Driven+Distributed+Systems+with+Service+Bus+and+RabbitMQ;%F0%9F%9A%80+Creator+of+CodeDotNet+(Client-Side+Roslyn+%2B+WASM)" alt="Typing Capabilities" />
-</a>
-
 <p align="center">
   <i>"Designing resilient, event-driven enterprise distributed systems, responsive full-stack applications, and browser-native compiler engines on modern .NET and Azure."</i>
 </p>
