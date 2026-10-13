@@ -1,11 +1,3 @@
-<div align="center">
-
-<p align="center">
-  <i>"Designing resilient, event-driven enterprise distributed systems, responsive full-stack applications, and browser-native compiler engines on modern .NET and Azure."</i>
-</p>
-
-</div>
-
 ## 🛠 The Full Technical Stack
 
 <table width="100%">
