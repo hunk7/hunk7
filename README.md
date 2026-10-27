@@ -98,7 +98,7 @@
   <tr>
     <td width="68%" valign="top">
       <h3>💻 CodeDotNet ~ C# Platform</h3>
-      <p>Run C# in the browser with .NET 10 WebAssembly and Roslyn, expose it to AI agents through MCP, and add an optional local AI assistant. No account, no cloud.</p>
+      <p>Run C# in the browser with .NET 10 WebAssembly and Roslyn, expose it to AI agents through MCP, and add an optional local AI assistant. No account, No Install, No Server (Web-IDE)</p>
       <ul>
         <li><b>Browser IDE:</b> Roslyn compiles and runs C# in a Web Worker with Monaco Editor.</li>
         <li><b>MCP Server:</b> lets Claude, Copilot or LLama agents execute C# in a MCP Sandbox.</li>
