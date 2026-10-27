@@ -96,20 +96,26 @@
 
 <table>
   <tr>
-    <td width="65%">
-      <h3>⚡ <a href="https://github.com/hunk7/codedotnet">CodeDotNet — In-Browser C# WebAssembly IDE</a></h3>
-      <p>A client-side C# execution engine operating inside the browser using Roslyn and WebAssembly, eliminating remote server compute overhead.</p>
+    <td width="68%" valign="top">
+      <h3>💻 CodeDotNet ~ C# Platform</h3>
+      <p>Run C# in the browser with .NET 10 WebAssembly and Roslyn, expose it to AI agents through MCP, and add an optional local AI assistant. No account, no cloud.</p>
       <ul>
-        <li><b>Compiler Pipeline:</b> Direct interaction with <code>Microsoft.CodeAnalysis</code> (Syntax Trees, Semantic Models, and dynamic in-memory emission).</li>
-        <li><b>Browser Integration:</b> Embedded Monaco Editor with dynamic syntax parsing, real-time diagnostic squigglies, and browser-safe runtime evaluation.</li>
-        <li><b>Zero Server Footprint:</b> Deployed as a client-side single-page app utilizing WebAssembly interop for low-latency execution.</li>
+        <li><b>Browser IDE:</b> Roslyn compiles and runs C# in a Web Worker with Monaco Editor.</li>
+        <li><b>MCP Server:</b> lets Claude, Copilot or LLama agents execute C# in a MCP Sandbox.</li>
+        <li><b>Local AI + RAG:</b> Ollama or Any other Local LLM reviews, debugs and tests code, and answers questions from your docs with validated citations.</li>
       </ul>
     </td>
-    <td width="35%" align="center">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,wasm,react,ts" height="46" alt="CodeDotNet Stack" /><br/><br/>
-      <a href="https://github.com/hunk7/codedotnet">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white" height="28" alt="View Repository" />
-      </a>
+    <td width="32%" align="center" valign="top">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,wasm,react,ts&perline=5" height="40" alt="CodeDotNet Stack" /><br/>
+      <img src="https://skillicons.dev/icons?i=vite,nodejs,sqlite&perline=3" height="40" alt="Tooling" /><br/><br/>
+      <img src="https://img.shields.io/badge/MCP-00A389?logo=modelcontextprotocol&logoColor=white" height="22" alt="MCP" />
+      <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" height="22" alt="Ollama" />
+      <img src="https://img.shields.io/badge/RAG-8A2BE2" height="22" alt="RAG" /><br/>
+      <img src="https://img.shields.io/badge/Local%20LLM-0467DF?logo=meta&logoColor=white" height="22" alt="Local LLM" />
+      <img src="https://img.shields.io/badge/AI%20Agents-F2711C" height="22" alt="AI Agents" /><br/><br/>
+      <a href="https://github.com/hunk7/codedotnet"><img src="https://img.shields.io/badge/Repository-181717?logo=github&logoColor=white" height="26" alt="Repository" /></a>
+      <a href="https://hunk7.github.io/codedotnet/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?logo=githubpages&logoColor=white" height="26" alt="Live Demo" /></a>
     </td>
   </tr>
 </table>
